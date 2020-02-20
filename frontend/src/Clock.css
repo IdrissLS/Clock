@@ -1,0 +1,11 @@
+.Clock {
+    font-family: 'Share Tech Mono', monospace;
+    position: absolute;
+    top: 35%;
+    left: auto;
+    color: #ffffff;
+    font-size: 80px;
+    letter-spacing: 0.05em;
+    padding: 5px 0;
+    text-shadow: 0 0 20px rgba(10, 175, 230, 1),  0 0 20px rgba(10, 175, 230, 0);
+}
